@@ -4,5 +4,8 @@
     <string name="app_name">Hide My Incomes</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+	<string name="footer_sms">SMS</string>
+	<string name="footer_phone">Phone</string>
+	<string name="footer_main">Main</string>
+	<string name="footer_settings">Settings</string>
 </resources>
